@@ -1,0 +1,3 @@
+cd android
+./gradlew signingReport
+flutter pub add firebase_core firebase_auth flutter_login font_awesome_flutter

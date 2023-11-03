@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144846250908",
+    "project_id": "sakit-c6333",
+    "storage_bucket": "sakit-c6333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144846250908:android:608e730b9e4e73abee9e59",
+        "android_client_info": {
+          "package_name": "com.example.firebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXhV90kw31nMwJtcpqLe2MpAMt2IDNGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
